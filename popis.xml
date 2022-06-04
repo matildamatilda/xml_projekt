@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<studenti>
+    <student id="129">
+        <ime>Ivana</ime>
+        <prezime>Ivic</prezime>
+        <smjer>Informatika</smjer>
+        <bodovi>32</bodovi>
+        <godina>1.</godina>
+    </student>
+    <student id="130">
+        <ime>Ivan</ime>
+        <prezime>Ivic</prezime>
+        <smjer>Racunalstvo</smjer>
+        <bodovi>36</bodovi>
+        <godina>2.</godina>
+    </student>
+    <student id="131">
+        <ime>Marko</ime>
+        <prezime>Markic</prezime>
+        <smjer>Graditeljstvo</smjer>
+        <bodovi>37</bodovi>
+        <godina>2.</godina>
+    </student>
+    <student id="132">
+        <ime>Luka</ime>
+        <prezime>Lukic</prezime>
+        <smjer>Elektrotehnika</smjer>
+        <bodovi>38</bodovi>
+        <godina>3.</godina>
+    </student>
+    <student id="133">
+        <ime>Sandra</ime>
+        <prezime>Sandric</prezime>
+        <smjer>Informatika</smjer>
+        <bodovi>27</bodovi>
+        <godina>2.</godina>
+    </student>
+    <student id="135">
+        <ime>Viktor</ime>
+        <prezime>Vikic</prezime>
+        <smjer>Graditeljstvo</smjer>
+        <bodovi>26</bodovi>
+        <godina>2.</godina>
+    </student>
+    <student id="136">
+        <ime>Samir</ime>
+        <prezime>Baric</prezime>
+        <smjer>Elektrotehnika</smjer>
+        <bodovi>32</bodovi>
+        <godina>3.</godina>
+    </student>
+    <student id="135">
+        <ime>Mislav</ime>
+        <prezime>Mikic</prezime>
+        <smjer>Informatika</smjer>
+        <bodovi>20</bodovi>
+        <godina>3.</godina>
+    </student>
+     <student id="131">
+        <ime>Marta</ime>
+        <prezime>Martic</prezime>
+        <smjer>Elektrotehnika</smjer>
+        <bodovi>37</bodovi>
+        <godina>4.</godina>
+    </student>
+  
+</studenti>
